@@ -9,7 +9,7 @@ Funcianalidades
 * Mostrar a la comunidad las actividades que desarrolla la institución como proyectos, ferias de ciencias, orientaciones que dicta la escuela secundaria como multimedia y educación física, etc.Generar un formulario de contacto.
 * Generar un formulario de contacto.
 
-Ideas en futuro: Acceso al aula virtual para los estudiantes del nivel secundario.
+# Ideas en futuro: Acceso al aula virtual para los estudiantes del nivel secundario.
 
 Integrantes: 
 * Fernandez Rubio Dolores
