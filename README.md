@@ -15,5 +15,5 @@ Integrantes:
 * Fernandez Rubio Dolores
 * Fernandez Rubio Franco
 * Figueroa Lorena
-* Gariglio Alejandro
+* Gariglio Alejandro - 32220552
 * Rodriguez Matias.
