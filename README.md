@@ -12,7 +12,7 @@ Funcianalidades
 # Ideas en futuro: Acceso al aula virtual para los estudiantes del nivel secundario.
 
 Integrantes: 
-* Fernandez Rubio Dolores
+* Fernandez Rubio Dolores - 37645311
 * Fernandez Rubio Franco
 * Figueroa Lorena - 36591295
 * Gariglio Alejandro
