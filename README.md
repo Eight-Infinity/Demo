@@ -13,7 +13,7 @@ Funcianalidades
 
 Integrantes: 
 * Fernandez Rubio Dolores
-* Fernandez Rubio Franco
+* Fernandez Rubio Franco - 46175319
 * Figueroa Lorena
 * Gariglio Alejandro
 * Rodriguez Matias.
