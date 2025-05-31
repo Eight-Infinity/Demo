@@ -13,7 +13,7 @@ Funcianalidades
 
 Integrantes: 
 * Fernandez Rubio Dolores - 37645311
-* Fernandez Rubio Franco
+* Fernandez Rubio Franco - 46175319
 * Figueroa Lorena - 36591295
 * Gariglio Alejandro - 32220552
 * Rodriguez Matias - 40403663
