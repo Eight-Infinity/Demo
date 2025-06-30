@@ -1,6 +1,6 @@
 # Pagina web Educativa
 
-Cambio inicial por Matias Valenzuela del Equipo Eight-Infinity
+Cambio secundario por Franco Fernandez del Equipo 
 
 Descripcion:
 El presente proyecto consiste en crear una pagina web para una institucion educativa que cuenta con 
