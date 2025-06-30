@@ -1,6 +1,6 @@
 # Pagina web Educativa
 
-Cambio secundario por Franco Fernandez del Equipo 
+Cambio secundario por Matias Rodriguez del Equipo 
 
 Descripcion:
 El presente proyecto consiste en crear una pagina web para una institucion educativa que cuenta con 
